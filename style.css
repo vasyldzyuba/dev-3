@@ -1,0 +1,9 @@
+.word_inner {
+  position: absolute;
+  display: block;
+  width: 10px;
+  left: 20px;
+}
+.word_inner:hover {
+  cursor: pointer;
+}
